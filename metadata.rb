@@ -1,4 +1,4 @@
-name             'livicu'
+name             'libicu'
 maintainer       'Ken Gotoh'
 maintainer_email 'lss.ken8927@gmail.com'
 license          'All rights reserved'
