@@ -22,7 +22,7 @@ include_recipe "build-essential"
 version = node['libicu']['version']
 prefix = node['libicu']['prefix']
 
-version_underscore = version.sub(/./,"_")
+version_underscore = version.sub(/\./,"_")
 
 remote_file "#{Chef::Config[:file_cache_path]}/icu4c-#{version_underscore}-src.tgz" do
   source "http://download.icu-project.org/files/icu4c/#{version}/icu4c-#{version_underscore}-src.tgz"
