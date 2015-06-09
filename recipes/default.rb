@@ -48,3 +48,4 @@ file "libicu-tarball-cleanup" do
   path "#{Chef::Config[:file_cache_path]}/icu4c-#{version_underscore}-src.tgz"
   action :delete
 end
+
