@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: livicu
+# Cookbook Name:: libicu
 # Recipe:: default
 # Author:: ken gotoh (lss.ken8927@gmail.com)
 #

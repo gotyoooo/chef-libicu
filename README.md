@@ -1,6 +1,6 @@
-livicu Cookbook
+libicu Cookbook
 ============
-Installs livicu from source
+Installs libicu from source
 ICU of the description is here [ICU - International Components for Unicode](http://site.icu-project.org)
 
 Requirements
@@ -18,13 +18,13 @@ Attributes
 
 Usage
 -----
-Just include `livicu` in your node's `run_list`:
+Just include `libicu` in your node's `run_list`:
 
 ```json
 {
   "name":"my_node",
   "run_list": [
-    "recipe[livicu]"
+    "recipe[libicu]"
   ]
 }
 ```

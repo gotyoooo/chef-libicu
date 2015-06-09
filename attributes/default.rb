@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: livicu
+# Cookbook Name:: libicu
 # Attributes:: default
 # Author:: ken gotoh (lss.ken8927@gmail.com)
 #
@@ -17,5 +17,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-default['livicu']['version'] = '55.1'
-default['livicu']['prefix']  = '/usr'
+default['libicu']['version'] = '55.1'
+default['libicu']['prefix']  = '/usr'
