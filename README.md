@@ -1,9 +1,7 @@
 icu Cookbook
 ============
-TODO: Enter the cookbook description here.
-
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+Install icu package
+ICU of the description is here [ICU - International Components for Unicode](http://site.icu-project.org)
 
 Requirements
 ------------
