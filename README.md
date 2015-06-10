@@ -1,7 +1,7 @@
 libicu Cookbook
 ============
-Installs libicu from source
-ICU of the description is here [ICU - International Components for Unicode](http://site.icu-project.org)
+* Installs libicu from source
+* ICU of the description is here [ICU - International Components for Unicode](http://site.icu-project.org)
 
 Requirements
 ------------
