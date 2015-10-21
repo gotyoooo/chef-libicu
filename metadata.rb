@@ -11,3 +11,6 @@ version          '0.1.1'
 end
 
 depends 'build-essential'
+
+source_url 'https://github.com/gotyoooo/chef-libicu'
+issues_url 'https://github.com/gotyoooo/chef-libicu/issues'
